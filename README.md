@@ -7,10 +7,11 @@
 
 ![workshop2](https://github.com/urvashii-b/Synthax-Hangman-CPP/assets/130129236/2dbf00c1-0729-4748-a54b-04eee7965d0d)
 
-to run the hangman file: 
-  type this on cmd in project directory: 
-    1) g++ main.cpp hangman_func.cpp -o final
-    2) ./final
+## To run the hangman file: 
+  ### type this on cmd in project directory: 
+    g++ main.cpp hangman_func.cpp -o final
+    
+    ./final
   
 
 
